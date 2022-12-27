@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/laserSensorDistance/ARM
+/laserSensorDistance/Debug
+/laserSensorDistance/Release
+/laserSensorDistance/x64
+/laserSensorDistance/__vm
